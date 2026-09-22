@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/arx-icon-mark.svg" width="120" alt="Arx OS logo">
+</p>
+
 # Arx CLI
 
 Wrapper de linha de comando do **Arx OS** — versão atual: **0.2.0**
